@@ -2,6 +2,22 @@ header ul li {
 	display: inline;
 }
 
+header
+{
+	text-align: center;
+}
+
+footer
+{
+	text-align: center;
+}
+
+#accessor
+{
+	text-align: right;
+	font-size: 2
+}
+
 footer nav ul li {
 	display: inline-block;
 }
