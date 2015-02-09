@@ -1,0 +1,44 @@
+header ul li {
+	display: inline;
+}
+
+footer nav ul li {
+	display: inline-block;
+}
+
+main nav ul li {
+	display: block;
+}
+
+main nav{
+	float: left;
+	width: 20%;
+}
+
+#recent{
+	float:left;
+	width: 50%;
+}
+
+#new{
+	float:left;
+	width: 50%;
+}
+
+#image{
+	clear: both;
+}
+
+main{
+	overflow: hidden;
+}
+
+section{
+	float: left;
+	width: 80%;
+}
+
+body{
+	width: 80%;
+	margin: auto;
+}
