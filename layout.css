@@ -1,0 +1,53 @@
+header ul li {
+	display: inline;
+}
+
+header
+{
+	text-align: center;
+}
+
+footer
+{
+	text-align: center;
+}
+
+footer nav ul li {
+	display: inline-block;
+}
+
+main nav ul li {
+	display: block;
+}
+
+#recent{
+	float:left;
+	width: 50%;
+}
+
+#new{
+	float:left;
+	width: 50%;
+}
+
+#image{
+	clear: both;
+}
+
+main{
+	overflow: hidden;
+}
+
+.sidebars
+{
+	float: left;
+}
+
+section{
+	float: left;
+	width: 80%;
+}
+
+body{
+	margin: auto;
+}

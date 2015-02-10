@@ -1,0 +1,81 @@
+header div
+{
+   color: #5e542b;
+   padding: 10px;
+}
+
+.menu ul li a:link
+{
+   color: white;
+   text-decoration: none;
+   padding: 20px;
+   background-color: #336732;
+   border-radius: 5px;
+}
+
+.menu ul li a:visited 
+{
+   color: white;
+}
+
+.menu ul li a:hover
+{
+   background-color: #5e542b;
+}
+
+.menu ul li a:active 
+{
+   color: white;
+}
+
+#accessor
+{
+   text-align: right;
+   font-size: 1;
+   font-style: italic;
+   text-decoration: none;
+}
+
+.sidebar1 ul li
+{
+   border: 1px dotted;  
+   padding: 5px;
+   background-color: #c8f2c9;
+   margin: 10px;
+}
+
+.sidebar1 ul li a:link
+{
+   text-decoration: none;
+   color: #415c41;
+   text-align: center;
+   font-weight: bold;
+   font-size: 3;
+}
+
+.sidebar1 ul li a:visited
+{
+   color: #415c41;
+}
+
+.sidebar2 ul li
+{
+   border: 1px dotted;  
+   padding: 5px;
+   background-color: #bcf27d;
+   margin: 10px;
+}
+
+.sidebar2 ul li a:link
+{
+   text-decoration: none;
+   color: #415c41;
+   text-align: center;
+   font-weight: bold;
+   font-size: 3;
+}
+
+.sidebar2 ul li a:visited
+{
+   color: #415c41;
+}
